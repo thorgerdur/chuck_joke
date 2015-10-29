@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/thorgerdur/chuck_joke.png)](https://travis-ci.org/thorgerdur/chuck_joke)
+[![Build Status](https://travis-ci.org/thorgerdur/chuck_joke.svg)](https://travis-ci.org/thorgerdur/chuck_joke)
 
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2015-3)
